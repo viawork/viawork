@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viawork
 - 👀 I’m interested in sofware development since 1999
 - 🌱 I’m currently learning Dart/Flutter, C#
-- 💞️ I’m looking to collaborate on desktop and web applications development
+- 💞️ I’m looking to collaborate on desktop, mobile and web applications development
 - 📫 How to reach me viawork2@gmail.com
 
 <!---
